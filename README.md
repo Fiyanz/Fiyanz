@@ -91,6 +91,8 @@ I'm someone who gets deeply curious about everything — curiosity is both my st
   </a>
 </div>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiyanz/Fiyanz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiyanz/Fiyanz/output/pacman-contribution-graph.svg">
